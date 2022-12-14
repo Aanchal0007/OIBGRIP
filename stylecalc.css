@@ -1,0 +1,48 @@
+.container{
+    text-align: center;
+    margin-top: 25px;
+
+}
+.calculator{
+    display: inline-block;
+    background-color: #244642;
+}
+table{
+    margin: auto;
+    border-color: black;
+}
+input{
+    font-size: 25px;
+    width: 249px;
+    padding: 5px;
+    background-color: black;
+    color: aliceblue;
+    letter-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    border: 5px solid #244642;
+}
+button{
+    font-size: 18px;
+    border-radius: 15px;
+    background-color: black;
+    color: whitesmoke;
+    padding: 12px;
+    text-decoration: none;
+    width: 60px;
+    height: 60px;
+    font-weight: bolder;
+}
+.opbtn{
+    background-color: lightblue;
+    color: black;
+}
+.clrbtn{
+    background-color:red;
+    color: black;
+}
+.equalbtn{
+    background-color: yellowgreen;
+    color: black;
+}
